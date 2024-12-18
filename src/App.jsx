@@ -4,9 +4,11 @@ import TaskList from './TaskList';
 
 const App = () => {
   return (
-    <>      
+    <> 
+       
       <TodoInput/>
       <TaskList />
+      
     </>
   )
 }
